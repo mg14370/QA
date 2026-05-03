@@ -128,18 +128,18 @@ Abnahmekriterien (Exit)
 
 7. Zeitplan (Kurz)
 
-Aktivität | Start | Ende | Verantwortlich | Aufwand
-
-Testplanung & Finalisierung TCs | 01.04.2026 | 05.04.2026 | Testmanager/QA | 20 Std.
-Testfalldesign abgeschlossen | 06.04.2026 | 14.04.2026 | QA‑Team | 40 Std.
-Unittest (Dev) | 15.04.2026 | 23.04.2026 | Entwicklerteam | 60 Std.
-Integrationstest | 24.04.2026 | 28.04.2026 | QA‑Team | 30 Std.
-Systemtest | 29.04.2026 | 09.05.2026 | QA‑Team | 80 Std.
-Regressionstest | 10.05.2026 | 14.05.2026 | QA‑Team | 40 Std.
-Performanztest | 15.05.2026 | 17.05.2026 | QA‑Team | 20 Std.
-Sicherheitstest | 18.05.2026 | 20.05.2026 | QA‑Team | 20 Std.
-Abnahmetest (UAT) | 21.05.2026 | 30.05.2026 | Endanwender | 50 Std.
-Produktionsfreigabe | 01.06.2026 | 01.06.2026 | DevOps | 10 Std.
+| Aktivität | Start | Ende | Verantwortlich | Aufwand |
+|---|---:|---:|---|---:|
+| Testplanung & Finalisierung TCs | 01.04.2026 | 05.04.2026 | Testmanager/QA | 20 Std. |
+| Testfalldesign abgeschlossen | 06.04.2026 | 14.04.2026 | QA‑Team | 40 Std. |
+| Unittest (Dev) | 15.04.2026 | 23.04.2026 | Entwicklerteam | 60 Std. |
+| Integrationstest | 24.04.2026 | 28.04.2026 | QA‑Team | 30 Std. |
+| Systemtest | 29.04.2026 | 09.05.2026 | QA‑Team | 80 Std. |
+| Regressionstest | 10.05.2026 | 14.05.2026 | QA‑Team | 40 Std. |
+| Performanztest | 15.05.2026 | 17.05.2026 | QA‑Team | 20 Std. |
+| Sicherheitstest | 18.05.2026 | 20.05.2026 | QA‑Team | 20 Std. |
+| Abnahmetest (UAT) | 21.05.2026 | 30.05.2026 | Endanwender | 50 Std. |
+| Produktionsfreigabe | 01.06.2026 | 01.06.2026 | DevOps | 10 Std. |
 
 ---
 

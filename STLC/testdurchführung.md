@@ -33,10 +33,11 @@ Als Kunde von MarketMate kann ich ein Produkt mit einem Text bis zu 500 Zeichen 
 | 3b      | Gib 500 Zeichen in das Textfeld ein                                    | Nachricht erscheint: "500/500" und "You cannot tell us more about this product." | OK     |                                               |                |
 
 
-<img width="1323" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1324" height="795" alt="screenshot" src="https://github.com/user-attachments/assets/e6ccb091-91ae-4e9e-b3ff-d22047970997" />
-<img width="876" height="801" alt="screenshot" src="https://github.com/user-attachments/assets/381e0bfa-0fbe-4d5e-8647-e023b9130cd9" />
-<img width="593" height="430" alt="screenshot" src="https://github.com/user-attachments/assets/40024678-eeae-4ac6-89ab-b7a52f9e2c55" />
+
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/3e293c1c-7ef1-4b78-b5ad-f49e17c971ee" />
+<img width="1324" height="795" alt="587949631-e6ccb091-91ae-4e9e-b3ff-d22047970997" src="https://github.com/user-attachments/assets/285f731b-5d8c-4dc3-a56c-88a758283696" />
+<img width="876" height="801" alt="587951316-381e0bfa-0fbe-4d5e-8647-e023b9130cd9" src="https://github.com/user-attachments/assets/e184838e-bc04-4727-a78e-e8fc6b93b7b1" />
+<img width="593" height="430" alt="587964534-40024678-eeae-4ac6-89ab-b7a52f9e2c55" src="https://github.com/user-attachments/assets/6882332a-c7b2-480c-89a4-d7f2c24815ca" />
 
 
 ## Szenario 3: Bewertung ändern
@@ -50,16 +51,20 @@ Als Kunde von MarketMate kann ich meine Bewertung ändern.
 | 3       | Klicke auf die 3 Punkte bei deiner Bewertung            | Auswahl "Edit" und "Delete" werden angezeigt                                        | OK     |                                               |                |
 | 4       | Klicke auf "Edit"                                       | Fenster "Edit Review" erscheint                                                     | OK     |                                               |                |
 | 5       | Ändere Anzahl an Sternen                                |                                                                                     |        |                                               |                |
+
 | 6       | Klicke auf "Save changes"                               | Anzahl der Sterne in der Bewertung wurde geändert und der Durchschnitt angepasst   | OK     |                                               |                |
 
 
-<img width="1323" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1324" height="795" alt="screenshot" src="https://github.com/user-attachments/assets/e6ccb091-91ae-4e9e-b3ff-d22047970997" />
-<img width="1229" height="480" alt="screenshot" src="https://github.com/user-attachments/assets/c4778a9d-2c03-4d1c-a992-daa3ce20bd90" />
-<img width="977" height="138" alt="screenshot" src="https://github.com/user-attachments/assets/45ba8a0d-c5a8-41cd-8247-66943a5ea503" />
-<img width="412" height="381" alt="screenshot" src="https://github.com/user-attachments/assets/5450a0ad-33d7-40c6-b7f9-6e7513b0e613" />
-<img width="413" height="382" alt="screenshot" src="https://github.com/user-attachments/assets/9ddbc3d8-5b11-4532-917f-b40e65a32e64" />
-<img width="1226" height="472" alt="screenshot" src="https://github.com/user-attachments/assets/afcb46c9-2a9e-497d-b3df-3906ac3efe02" />
+
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/57540d61-bb13-42c1-a387-1f89dd0ac71f" />
+<img width="1324" height="795" alt="587949631-e6ccb091-91ae-4e9e-b3ff-d22047970997" src="https://github.com/user-attachments/assets/66e5acb9-5aa9-4563-b39a-438e16ae1eba" />
+<img width="1229" height="480" alt="587976681-c4778a9d-2c03-4d1c-a992-daa3ce20bd90" src="https://github.com/user-attachments/assets/4b26998c-69fe-4058-bdb3-cc08df64283e" />
+<img width="977" height="138" alt="587977059-45ba8a0d-c5a8-41cd-8247-66943a5ea503" src="https://github.com/user-attachments/assets/9c6a80b4-e2e0-437f-92aa-427f4b00fc36" />
+<img width="412" height="381" alt="587977117-5450a0ad-33d7-40c6-b7f9-6e7513b0e613" src="https://github.com/user-attachments/assets/d81d7f74-2119-401b-8b80-3a6bff512739" />
+<img width="413" height="382" alt="587978158-9ddbc3d8-5b11-4532-917f-b40e65a32e64" src="https://github.com/user-attachments/assets/cc6ff413-69fb-43bf-8992-b9b94b116905" />
+<img width="1226" height="472" alt="587977351-afcb46c9-2a9e-497d-b3df-3906ac3efe02" src="https://github.com/user-attachments/assets/c5197916-4493-44f4-a27f-fbfe3281ee0e" />
+
+
 
 
 ## Szenario 4: Altersverifikation beim Zugriff auf 18+ Kategorie

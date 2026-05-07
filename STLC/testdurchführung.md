@@ -11,10 +11,14 @@ Als Kunde von MarketMate kann ich ein Produkt nicht bewerten, ohne Sterne zu ver
 | 3       | Klicke im Bewertungsfenster auf "Send" ohne Sterne zu vergeben              | Fehlermeldung erscheint: "Invalid input for the field 'Rating'. Please check your input." | OK     |                                                |                |
 
 
-<img width="1323" height="800" alt="image" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1324" height="795" alt="image" src="https://github.com/user-attachments/assets/e6ccb091-91ae-4e9e-b3ff-d22047970997" />
-<img width="876" height="801" alt="image" src="https://github.com/user-attachments/assets/381e0bfa-0fbe-4d5e-8647-e023b9130cd9" />
-<img width="800" height="429" alt="Bildschirmfoto 2026-05-06 um 00 05 50" src="https://github.com/user-attachments/assets/f25739fe-5a15-4ff0-b468-d1ebfd9834cb" />
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/577a785f-430f-4584-89c5-b91e68b4400f" />
+<img width="1324" height="795" alt="587949631-e6ccb091-91ae-4e9e-b3ff-d22047970997" src="https://github.com/user-attachments/assets/9a7ff65f-4798-40c3-8899-018b2afe40f1" />
+<img width="876" height="801" alt="587951316-381e0bfa-0fbe-4d5e-8647-e023b9130cd9" src="https://github.com/user-attachments/assets/15ca6226-f58f-455d-80a1-632b253ea560" />
+<img width="800" height="429" alt="587951379-f25739fe-5a15-4ff0-b468-d1ebfd9834cb" src="https://github.com/user-attachments/assets/2f511c7d-df42-4137-8fbe-bdae39859e78" />
+
+
+
+
 
 
 ## Szenario 2: Max. 500‑Zeichen Bewertung

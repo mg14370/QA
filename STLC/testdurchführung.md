@@ -158,8 +158,9 @@ Wenn der Warenwert in Echtzeit unter die Versandfreigrenze sinkt, ändern sich d
 | 5       | Verringere Warenwert auf unter 20,00 € | Versandkosten wechseln von 0,00 € auf 5,00 €; Total wird entsprechend angepasst; Warenwert + 5,00 € Versand) | NOK    | /checkout  |                |
 
 
-<img width="1323" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1325" height="797" alt="screenshot" src="https://github.com/user-attachments/assets/f269eeb9-8f8d-4b04-b448-9f8870990c79" />
-<img width="176" height="168" alt="screenshot" src="https://github.com/user-attachments/assets/5d4beaec-d0bb-4c84-bdc1-482495dddb6b" />
-<img width="550" height="461" alt="screenshot" src="https://github.com/user-attachments/assets/86c8b82c-41bf-4ff4-92d0-9bcc11cd7b39" />
-<img width="546" height="464" alt="screenshot" src="https://github.com/user-attachments/assets/26b746be-6f0e-4f35-9f77-b6b80ce0e91c" />
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/ede25484-52c0-4853-a0d2-5cc264af3024" />
+<img width="1325" height="797" alt="588038098-f269eeb9-8f8d-4b04-b448-9f8870990c79" src="https://github.com/user-attachments/assets/32418912-c3db-42a5-87ed-0be472bd4d38" />
+<img width="176" height="168" alt="588048444-5d4beaec-d0bb-4c84-bdc1-482495dddb6b" src="https://github.com/user-attachments/assets/d2d0cd01-1112-43da-9e3f-6a7c100d3dc3" />
+<img width="550" height="461" alt="588067313-86c8b82c-41bf-4ff4-92d0-9bcc11cd7b39" src="https://github.com/user-attachments/assets/2f98f4ef-43a3-492d-81d8-30c968b26ccc" />
+<img width="546" height="464" alt="588067386-26b746be-6f0e-4f35-9f77-b6b80ce0e91c" src="https://github.com/user-attachments/assets/81d8acd4-867b-4f85-99b2-7b2d84ca77ef" />
+

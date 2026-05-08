@@ -51,9 +51,7 @@ Als Kunde von MarketMate kann ich meine Bewertung ändern.
 | 3       | Klicke auf die 3 Punkte bei deiner Bewertung            | Auswahl "Edit" und "Delete" werden angezeigt                                        | OK     |                                               |                |
 | 4       | Klicke auf "Edit"                                       | Fenster "Edit Review" erscheint                                                     | OK     |                                               |                |
 | 5       | Ändere Anzahl an Sternen                                |                                                                                     |        |                                               |                |
-
 | 6       | Klicke auf "Save changes"                               | Anzahl der Sterne in der Bewertung wurde geändert und der Durchschnitt angepasst   | OK     |                                               |                |
-
 
 
 <img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/57540d61-bb13-42c1-a387-1f89dd0ac71f" />
@@ -93,10 +91,10 @@ Auf MarketMate erscheint ein Pop-up zur Altersverifikation beim Zugriff auf die 
 | 4       | Klicke auf "Confirm"                                                                                | Meldung erscheint: "You are of age. You can now view all products, even alcohol products." Zugriff auf 18+ Produkte gewährt. | OK     |                                      |                |
 
 
-<img width="1323" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1321" height="790" alt="screenshot" src="https://github.com/user-attachments/assets/1402786b-8f31-4809-b8d0-c4dc22040dcd" />
-<img width="549" height="154" alt="screenshot" src="https://github.com/user-attachments/assets/e1e6e5d4-5d9f-4d6e-a4ad-2eba7516c0d7" />
-<img width="408" height="134" alt="screenshot" src="https://github.com/user-attachments/assets/5eb3c528-8cba-4a7c-9f3e-144e659f8ea1" />
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/65ef82dd-b119-4839-b152-30325f4c22b0" />
+<img width="1321" height="790" alt="587995399-7f510f16-0a8b-46bd-a8e8-059355a7a739" src="https://github.com/user-attachments/assets/0689bc72-142b-4d96-b1f5-a3f6c764e1e1" />
+<img width="549" height="154" alt="588045717-e1e6e5d4-5d9f-4d6e-a4ad-2eba7516c0d7" src="https://github.com/user-attachments/assets/9baeeeed-088b-418a-b9d8-a31a42893dc3" />
+<img width="408" height="134" alt="588046324-5eb3c528-8cba-4a7c-9f3e-144e659f8ea1" src="https://github.com/user-attachments/assets/cf5735be-9c1b-416a-8e8b-6b6fb7b9220d" />
 
 
 ## Szenario 6: Altersverifikation für 18+ Produkte
@@ -111,10 +109,10 @@ Auf MarketMate erscheint ein Pop-up zur Altersverifikation um Zugriff auf 18+ Pr
 | 4       | Klicke auf "Confirm"                                                                                | Meldung erscheint: "You are underage. You can still browse the site, but you will not be able to view alcohol products." | OK     |                                      |                |
 
 
-<img width="1323" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1321" height="790" alt="screenshot" src="https://github.com/user-attachments/assets/1402786b-8f31-4809-b8d0-c4dc22040dcd" />
-<img width="548" height="152" alt="screenshot" src="https://github.com/user-attachments/assets/f6dea80e-c432-40ba-bfde-fe06b52ce85f" />
-<img width="345" height="108" alt="screenshot" src="https://github.com/user-attachments/assets/8f80a79c-d44d-4f57-aaf7-eb527bd512db" />
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/833d6f4a-8e7b-4b0a-87b6-d3ab79f68737" />
+<img width="1321" height="790" alt="587995399-7f510f16-0a8b-46bd-a8e8-059355a7a739" src="https://github.com/user-attachments/assets/155a75e3-0e1d-4500-9f91-e75af5f64a53" />
+<img width="548" height="152" alt="588047627-f6dea80e-c432-40ba-bfde-fe06b52ce85f" src="https://github.com/user-attachments/assets/1d80f291-35d3-463c-8762-2fa4ea278f69" />
+<img width="345" height="108" alt="588001912-8f80a79c-d44d-4f57-aaf7-eb527bd512db" src="https://github.com/user-attachments/assets/6f72fb2a-f715-496c-b631-0806ce0a7571" />
 
 
 ## Szenario 7: Versandkosten unter Schwellenwert (Versand 5 €)
@@ -129,10 +127,11 @@ Wenn der Warenkorb unter dem Versandfreigrenzwert liegt, werden 5,00 € Versand
 | 4       | Klicke auf Warenkorb                               | Du wirst zum Checkout weitergeleitet; Warenwert 19,99 €, Versand 5,00 €, Total = 24,99 € | OK     | /checkout             |                |
 
 
-<img width="1323" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1325" height="797" alt="screenshot" src="https://github.com/user-attachments/assets/f269eeb9-8f8d-4b04-b448-9f8870990c79" />
-<img width="176" height="168" alt="screenshot" src="https://github.com/user-attachments/assets/5d4beaec-d0bb-4c84-bdc1-482495dddb6b" />
-<img width="551" height="613" alt="screenshot" src="https://github.com/user-attachments/assets/baaf4966-ca13-4338-81b8-79a6548d527e" />
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/da0d6dae-9d6a-4824-bfb6-4cadbc98d3b8" />
+<img width="1325" height="797" alt="588038098-f269eeb9-8f8d-4b04-b448-9f8870990c79" src="https://github.com/user-attachments/assets/4ec393e6-0bea-4c47-ad1e-47a7fd3389c9" />
+<img width="176" height="168" alt="588048444-5d4beaec-d0bb-4c84-bdc1-482495dddb6b" src="https://github.com/user-attachments/assets/db9399dd-c850-4be6-a8d6-ae214e5738e7" />
+<img width="551" height="613" alt="588038513-baaf4966-ca13-4338-81b8-79a6548d527e" src="https://github.com/user-attachments/assets/508cf820-540b-4df2-a758-0dc689e28ef8" />
+
 
 
 ## Szenario 8: Versandkosten - Genau Schwellenwert 20,00 € (versandfrei)
@@ -147,10 +146,10 @@ Wenn der Warenkorb genau den Versandfreigrenzwert erreicht, ist der Versand kost
 | 4       | Klicke auf Warenkorb                        | Du wirst zum Checkout weitergeleitet; Warenwert 20,00 €, Versand 0,00 €, Total = 20,00 € | OK     | /checkout                                   |                |
 
 
-<img width="1323" height="800" alt="screenshot" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1325" height="797" alt="screenshot" src="https://github.com/user-attachments/assets/f269eeb9-8f8d-4b04-b448-9f8870990c79" />
-<img width="176" height="168" alt="screenshot" src="https://github.com/user-attachments/assets/5d4beaec-d0bb-4c84-bdc1-482495dddb6b" />
-<img width="547" height="466" alt="screenshot" src="https://github.com/user-attachments/assets/ce56bfed-260c-49de-8c50-b3c83713d72f" />
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/e0c283b8-141d-41b0-85cc-892063805041" />
+<img width="1325" height="797" alt="588038098-f269eeb9-8f8d-4b04-b448-9f8870990c79" src="https://github.com/user-attachments/assets/df641076-0580-4d9a-ac8e-b33691cb8a09" />
+<img width="176" height="168" alt="588048444-5d4beaec-d0bb-4c84-bdc1-482495dddb6b" src="https://github.com/user-attachments/assets/0257e4c2-fe00-41a2-88d7-25a893da0091" />
+<img width="547" height="466" alt="588056473-ce56bfed-260c-49de-8c50-b3c83713d72f" src="https://github.com/user-attachments/assets/e43799f1-a209-4fc5-84cf-8b1e0d74accb" />
 
 
 ## Szenario 9: Echtzeit‑Änderung beim Mengenupdate

@@ -126,7 +126,6 @@ Wenn der Warenkorb unter dem Versandfreigrenzwert liegt, werden 5,00 € Versand
 <img width="551" height="613" alt="588038513-baaf4966-ca13-4338-81b8-79a6548d527e" src="https://github.com/user-attachments/assets/508cf820-540b-4df2-a758-0dc689e28ef8" />
 
 
-
 ## Szenario 8: Versandkosten - Genau Schwellenwert 20,00 € (versandfrei)
 
 Wenn der Warenkorb genau den Versandfreigrenzwert erreicht, ist der Versand kostenlos.

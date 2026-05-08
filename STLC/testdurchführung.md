@@ -17,10 +17,6 @@ Als Kunde von MarketMate kann ich ein Produkt nicht bewerten, ohne Sterne zu ver
 <img width="800" height="429" alt="587951379-f25739fe-5a15-4ff0-b468-d1ebfd9834cb" src="https://github.com/user-attachments/assets/2f511c7d-df42-4137-8fbe-bdae39859e78" />
 
 
-
-
-
-
 ## Szenario 2: Max. 500‑Zeichen Bewertung
 
 Als Kunde von MarketMate kann ich ein Produkt mit einem Text bis zu 500 Zeichen bewerten.
@@ -31,7 +27,6 @@ Als Kunde von MarketMate kann ich ein Produkt mit einem Text bis zu 500 Zeichen 
 | 2       | Gib "Birchwood Quarter Pounders" in Suchleiste ein                     | Du wirst auf Produktseite weitergeleitet                                          | OK     | /product/66b3a57b3fd5048eacb479c8             |                |
 | 3a      | Vergebe im Bewertungsfenster bis zu 5 Sterne                           |                                                                                   |        |                                               |                |
 | 3b      | Gib 500 Zeichen in das Textfeld ein                                    | Nachricht erscheint: "500/500" und "You cannot tell us more about this product." | OK     |                                               |                |
-
 
 
 <img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/3e293c1c-7ef1-4b78-b5ad-f49e17c971ee" />
@@ -63,8 +58,6 @@ Als Kunde von MarketMate kann ich meine Bewertung ändern.
 <img width="1226" height="472" alt="587977351-afcb46c9-2a9e-497d-b3df-3906ac3efe02" src="https://github.com/user-attachments/assets/c5197916-4493-44f4-a27f-fbfe3281ee0e" />
 
 
-
-
 ## Szenario 4: Altersverifikation beim Zugriff auf 18+ Kategorie
 
 Auf MarketMate erscheint ein Pop-up zur Altersverifikation beim Zugriff auf die 18+ Kategorie.
@@ -75,8 +68,8 @@ Auf MarketMate erscheint ein Pop-up zur Altersverifikation beim Zugriff auf die 
 | 2       | Klicke auf "Shop"              | Altersverifikations-Pop-up erscheint         | OK     | /store                              |                |
 
 
-<img width="1323" height="800" alt="image" src="https://github.com/user-attachments/assets/f2987fd1-de45-41be-b779-0773e5ebbca0" />
-<img width="1321" height="790" alt="Bildschirmfoto 2026-05-06 um 01 53 29" src="https://github.com/user-attachments/assets/7f510f16-0a8b-46bd-a8e8-059355a7a739" />
+<img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/443698f0-e812-4da5-a7b3-45e934c8b980" />
+<img width="1321" height="790" alt="587995399-7f510f16-0a8b-46bd-a8e8-059355a7a739" src="https://github.com/user-attachments/assets/9f938b75-a3bf-435c-a4f5-5ec8d9ca59d0" />
 
 
 ## Szenario 5: Altersverifikation beim Zugriff auf 18+ Kategorie

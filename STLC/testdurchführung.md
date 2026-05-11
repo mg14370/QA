@@ -62,14 +62,16 @@ Als Kunde von MarketMate kann ich meine Bewertung ändern.
 
 Auf MarketMate erscheint ein Pop-up zur Altersverifikation beim Zugriff auf die 18+ Kategorie.
 
-| Schritt | Aktion                         | Erwartetes Ergebnis                          | OK/NOK | URL                                | Link zum Issue |
-| ------- | ------------------------------ | -------------------------------------------- | ------ | ---------------------------------- | -------------- |
-| 1       | Gehe zur Homepage von MarketMate              | Homepage erscheint                            | OK     | https://grocerymate.masterschool.com/ |                |
-| 2       | Klicke auf "Shop"              | Altersverifikations-Pop-up erscheint         | OK     | /store                              |                |
+| Schritt | Aktion                                                                 | Erwartetes Ergebnis                                                                                                        | OK/NOK | URL                                           | Link zum Issue |
+| ------- | ---------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------ | --------------------------------------------- | -------------- |
+| 1       | Gehe zur Homepage                                                      | Homepage erscheint                                                                                                         | OK     | https://grocerymate.masterschool.com/         |                |
+| 2       | Klicke auf "Shop"                                                      | Altersverifikations-Pop-up erscheint                                                                                        | OK     | /store                                        |                |
+| 3       | Klicke auf "Confirm" ohne Eingaben                                     | Meldung erscheint: "You are underage. You can still browse the site, but you will not be able to view alcohol products." Zugriffsblock auf Alkoholprodukte (nur Browsen möglich) | OK     |                                               |                |
 
 
 <img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/443698f0-e812-4da5-a7b3-45e934c8b980" />
 <img width="1321" height="790" alt="587995399-7f510f16-0a8b-46bd-a8e8-059355a7a739" src="https://github.com/user-attachments/assets/9f938b75-a3bf-435c-a4f5-5ec8d9ca59d0" />
+<img width="345" height="108" alt="588001912-8f80a79c-d44d-4f57-aaf7-eb527bd512db" src="https://github.com/user-attachments/assets/6f72fb2a-f715-496c-b631-0806ce0a7571" />
 
 
 ## Szenario 5: Altersverifikation beim Zugriff auf 18+ Kategorie

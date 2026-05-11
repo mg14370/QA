@@ -156,7 +156,7 @@ Wenn der Warenwert in Echtzeit unter die Versandfreigrenze sinkt, ändern sich d
 | 2       | Klicke auf "Shop"                                          | Du wirst zur Produktübersicht weitergeleitet                                        | OK     | /store     |                |
 | 3       | Fülle Warenkorb über Wert von 20,00 €                        |                                                                                     |        |            |                |
 | 4       | Klicke auf Warenkorb                                        | Du wirst zum Checkout weitergeleitet; Warenwert 29,37 €, Versand 0,00 €, Total = 29,37 € | OK     | /checkout  |                |
-| 5       | Verringere Warenwert auf unter 20,00 € | Versandkosten wechseln von 0,00 € auf 5,00 €; Total wird entsprechend angepasst; Warenwert + 5,00 € Versand) | NOK    | /checkout  |                |
+| 5       | Verringere Warenwert auf unter 20,00 € | Versandkosten wechseln von 0,00 € auf 5,00 €; Total wird entsprechend angepasst; Warenwert + 5,00 € Versand) | NOK    | /checkout  |           https://github.com/mg14370/QA/issues/1     |
 
 
 <img width="1323" height="800" alt="587948835-f2987fd1-de45-41be-b779-0773e5ebbca0" src="https://github.com/user-attachments/assets/ede25484-52c0-4853-a0d2-5cc264af3024" />

@@ -30,9 +30,9 @@
 ### Testfälle:
 
 1. **Use Case Testing**:
-   - **Testfall**: Pop-up bei Zugriff auf 18+ Kategorie
-     - **Input**: Kategorie "Alkohol" / Produktlink eines 18+ Produkts aufrufen
-     - **Erwartetes Ergebnis**: Altersverifikations-Pop-up erscheint.
+   - **Testfall**: Zugriff auf 18+ Kategorie ohne Altersnachweis
+     - **Input**: Altersverifikations-Pop-up wegklicken und 18+ Produkt aufrufen
+     - **Erwartetes Ergebnis**: Anstatt der 18+ Produkte wird eine Fehlermeldung angezeigt.
 
 2. **Boundary Value Analysis (BVA)**:
    - **Testfall**: Grenzwert 18 Jahre (exakt)
